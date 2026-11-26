@@ -4,8 +4,8 @@
 
 # Funniest Time Machine Warning Label
 
-A one-line time machine warning label entry for the make.fun bounty "Funniest Time Machine Warning Label". The program `main.py` writes a single warning label to `/output/entry.txt` — do not kill your grandfather, because the machine cannot refund a traveller who was never born.
+A one-line time machine warning label entry for the make.fun bounty "Funniest Time Machine Warning Label". The program `main.py` writes a single warning label to `/output/entry.txt` — the past is non-refundable, and your childhood has already been worn.
 
-> WARNING: Do not kill your grandfather. The machine cannot refund a traveller who was never born.
+> WARNING: The past is non-refundable. Your childhood has already been worn and cannot be returned.
 
 Run it with `python3 main.py`. It asserts the entry is 1–120 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
