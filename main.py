@@ -18,13 +18,22 @@ you will say yes" — where a loan, a mundane everyday problem, collides
 with the impossibility of refusing yourself. That fits the judge brief:
 the funniest one-line warning label for a time machine, 120 characters
 or fewer, funny through a surprising payoff that is clear on first read.
+
+Second pass — why the new line works: it treats time travel like a
+retail transaction, and the store policy is the joke — the past is
+"non-refundable", a phrase every shopper knows, applied to something
+you cannot buy in the first place. The punchline lands on "worn":
+your childhood, already lived in, is second-hand goods the shop will
+not take back. The warning-label voice stays bureaucratic throughout,
+which makes the absurd product — a used childhood — feel routine.
+97 characters, two short sentences, one breath.
 """
 
 import os
 
 LABEL = (
-    "WARNING: Do not meet yourself. He will ask for a loan, and you "
-    "already know you will say yes."
+    "WARNING: The past is non-refundable. Your childhood has already "
+    "been worn and cannot be returned."
 )
 
 
